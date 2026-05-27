@@ -315,8 +315,8 @@ Key contributions:
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/ShuaibJama1/Final-Capstone-GitHub-Project.git
-cd Final-Capstone-GitHub-Project
+git clone https://github.com/Suav00/IEE-CIS-Fraud-Detection.git
+cd IEE-CIS-Fraud-Detection
 ```
 
 **Step 2 — Install dependencies**
