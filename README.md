@@ -1,6 +1,5 @@
 # 🛡️ IEEE-CIS Fraud Detection — End-to-End Machine Learning Pipeline
-
-**Author:** Shuaib Jama    
+    
 **Dataset:** [IEEE-CIS Fraud Detection — Kaggle](https://www.kaggle.com/competitions/ieee-fraud-detection/data)
 
 ---
